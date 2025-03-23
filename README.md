@@ -15,7 +15,9 @@ This should generate an executable called "./prog", which can be utilized to pla
 
 ## [Screenshots]
 
-[]
+![Screenshot from 2025-03-23 15-48-49](https://github.com/user-attachments/assets/892ede65-ded0-4342-98c2-69006cb4bf91)
+
+![Minesweepgif](https://github.com/user-attachments/assets/be2fd270-d647-4690-8aa2-a1a5c0167f00)
 
 ## [Resources]
 
